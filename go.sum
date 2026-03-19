@@ -36,6 +36,10 @@ github.com/dlclark/regexp2 v1.11.5 h1:Q/sSnsKerHeCkc/jSTNq1oCm7KiVgUMZRDUoRu0JQZ
 github.com/dlclark/regexp2 v1.11.5/go.mod h1:DHkYz0B9wPfa6wondMfaivmHpzrQ3v9q8cnmRbL6yW8=
 github.com/hexops/gotextdiff v1.0.3 h1:gitA9+qJrrTCsiCl7+kh75nPqQt1cx4ZkudSTLoUqJM=
 github.com/hexops/gotextdiff v1.0.3/go.mod h1:pSWU5MAI3yDq+fZBTazCSJysOMbxWL1BSow5/V2vxeg=
+github.com/ionut-t/goeditor v0.4.0 h1:fUTbaJCG7h+Xh55mTbA5ooQMR2W0HZXHrU/kQQCnjd8=
+github.com/ionut-t/goeditor v0.4.0/go.mod h1:8BQAKA7hOz0yy2DjI7KpoZbj+eoM2vYnihGpH4kdNug=
+github.com/ionut-t/goeditor v0.4.1 h1:uMMMlxnZYewRYrCFaE2jNGZGy4oWf1SXCzA1SxGMeIk=
+github.com/ionut-t/goeditor v0.4.1/go.mod h1:8BQAKA7hOz0yy2DjI7KpoZbj+eoM2vYnihGpH4kdNug=
 github.com/ionut-t/goeditor/adapter-bubbletea v0.3.3 h1:lYOwKeCQiURDN0lA9mirdzMWRZwpmAzReToTTnzrw78=
 github.com/ionut-t/goeditor/adapter-bubbletea v0.3.3/go.mod h1:lEQGWsDecWYw5Mo103g694Vv8BS6spYUzfNYyka2phw=
 github.com/ionut-t/goeditor/core v0.3.1 h1:i1x8+vOwWzVJCkQJeWX9fNk/Zat140aItGyCkdeym78=
