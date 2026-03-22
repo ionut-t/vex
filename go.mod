@@ -2,7 +2,10 @@ module github.com/ionut-t/vex
 
 go 1.26.1
 
-require charm.land/bubbletea/v2 v2.0.1
+require (
+	charm.land/bubbletea/v2 v2.0.1
+	github.com/ionut-t/goeditor v0.4.6
+)
 
 require (
 	charm.land/bubbles/v2 v2.0.0 // indirect
@@ -18,7 +21,6 @@ require (
 	github.com/clipperhouse/displaywidth v0.11.0 // indirect
 	github.com/clipperhouse/uax29/v2 v2.7.0 // indirect
 	github.com/dlclark/regexp2 v1.11.5 // indirect
-	github.com/ionut-t/goeditor v0.4.1 // indirect
 	github.com/lucasb-eyer/go-colorful v1.3.0 // indirect
 	github.com/mattn/go-runewidth v0.0.21 // indirect
 	github.com/muesli/cancelreader v0.2.2 // indirect
