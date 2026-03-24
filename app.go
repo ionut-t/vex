@@ -64,6 +64,7 @@ func run(prefill string) (string, error) {
 	e.SetLanguage("bash", "catppuccin-mocha")
 	e.SetCursorMode(editor.CursorBlink)
 	e.ShowTildeIndicator(true)
+	e.SetExtraWordChars('-')
 
 	e.SetContent(prefill)
 
