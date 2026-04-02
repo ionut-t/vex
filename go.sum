@@ -40,6 +40,8 @@ github.com/hexops/gotextdiff v1.0.3 h1:gitA9+qJrrTCsiCl7+kh75nPqQt1cx4ZkudSTLoUq
 github.com/hexops/gotextdiff v1.0.3/go.mod h1:pSWU5MAI3yDq+fZBTazCSJysOMbxWL1BSow5/V2vxeg=
 github.com/ionut-t/goeditor v0.4.7 h1:DaHpW72Bqlp7ZOnCOYVPTvhLeBHrBDVrXgH8uw0bdPE=
 github.com/ionut-t/goeditor v0.4.7/go.mod h1:sVMC8y3eupOdNaNr1Tb4sF/O+sm6PbXgpBQxg+AckEI=
+github.com/ionut-t/goeditor v0.4.9 h1:mhhOBTurnZ4xgVhe2PK4X2zMXW2s3OMol8/SFCowPFU=
+github.com/ionut-t/goeditor v0.4.9/go.mod h1:sVMC8y3eupOdNaNr1Tb4sF/O+sm6PbXgpBQxg+AckEI=
 github.com/lucasb-eyer/go-colorful v1.3.0 h1:2/yBRLdWBZKrf7gB40FoiKfAWYQ0lqNcbuQwVHXptag=
 github.com/lucasb-eyer/go-colorful v1.3.0/go.mod h1:R4dSotOR9KMtayYi1e77YzuveK+i7ruzyGqttikkLy0=
 github.com/mattn/go-runewidth v0.0.21 h1:jJKAZiQH+2mIinzCJIaIG9Be1+0NR+5sz/lYEEjdM8w=
