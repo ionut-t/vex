@@ -4,7 +4,7 @@ go 1.26.1
 
 require (
 	charm.land/bubbletea/v2 v2.0.1
-	github.com/ionut-t/goeditor v0.4.9
+	github.com/ionut-t/goeditor v0.4.11
 )
 
 require (
